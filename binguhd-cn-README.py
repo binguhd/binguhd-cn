@@ -183,7 +183,7 @@ def build_readme() -> str:
     parts.append("## 🚀 项目")
     parts.append("")
     parts.append(
-        "🔗 [bingmen/bing-UHD-cn](https://github.com/bingmen/bing-UHD-cn)"
+        "🔗 [bingmen/bingud-cn](https://github.com/binguhd/binguhd-cn)"
     )
     parts.append("")
     parts.append("## 😀 简介")
@@ -200,7 +200,7 @@ def build_readme() -> str:
         emoji = YEAR_EMOJI[year]
         parts.append(
             f"### {emoji} [{year}]"
-            f"(https://uhdcn.bingmen.comn/bing-UHD-cn-{year}.html)"
+            f"(https://cn.binguhd.com/bing-UHD-cn-{year}.html)"
         )
         parts.append("")
         items = random_items(year)
