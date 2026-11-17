@@ -1,8 +1,8 @@
-# bing-UHD-cn-README-0.1.2.py
+# binguhd-cn-README-0.2.0.py
 # github.com/shenjuexiao
-# 20261108
+# 20261117
 
-# bing-UHD-cn-README.py
+# binguhd-cn-README.py
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
@@ -178,7 +178,7 @@ def render_thumb_table(year: int, items: list[dict]) -> str:
 
 def build_readme() -> str:
     parts = []
-    parts.append("# Bing 每日壁纸 - UHD 中文")
+    parts.append("# Bing 每日壁纸 - UHD - 中文")
     parts.append("")
     parts.append("## 🚀 项目")
     parts.append("")
