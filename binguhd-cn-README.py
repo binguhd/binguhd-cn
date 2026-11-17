@@ -7,7 +7,7 @@
 # -*- coding: utf-8 -*-
 
 """
-重新生成 Bing 每日壁纸 - UHD 中文 的 bing-UHD-cn-README.md 和 README.md
+重新生成 Bing 每日壁纸 - UHD - 中文 的 bing-UHD-cn-README.md 和 README.md
 """
 
 import json
