@@ -38,7 +38,7 @@ HEADERS = {
     )
 }
 # jsDelivr CDN 前缀
-CDN_BASE = "https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main"
+CDN_BASE = "https://cdn.jsdelivr.net/gh/bing/bingudh-CN@main"
 
 
 def sanitize_filename(name: str) -> str:
