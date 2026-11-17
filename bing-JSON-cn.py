@@ -1,6 +1,6 @@
-# bing-JSON-cn-0.0.1.py
+# bing-JSON-cn-0.1.0.py
 # github.com/shenjuexiao
-# 20261024
+# 20261117
 
 # bing-JSON-cn.py
 #!/usr/bin/env python3
