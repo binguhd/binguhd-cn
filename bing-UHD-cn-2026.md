@@ -1,9 +1,10 @@
-# Bing 每日壁纸 - UHD 中文 - 2026
+# Bing 每日壁纸 - UHD - 中文 - 2026
 
-> 最后更新：2026-11-16 06:12:01 UTC
+> 最后更新：2026-11-17 05:38:12 UTC
 
 | 日期 | 标题 | 版权 | 缩略图 | 高清图 |
 | :---: | :---: | :---: | :---: | :---: |
+| 2026-11-17 | 走进广阔的大自然 | 雪松林步道，冰川国家公园，蒙大拿州，美国 (© DBushue Photography/Getty Images) | ![走进广阔的大自然](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261117_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg) |
 | 2026-11-16 | 历经岁月，屹立不倒 | 美国新墨西哥州吉拉悬崖民居国家纪念地 (© Chiara Salvadori/Getty Images) | ![历经岁月，屹立不倒](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261116_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg) |
 | 2026-11-15 | 霜染枝叶 | 覆霜的红叶杜鹃 (© avoferten/Shutterstock) | ![霜染枝叶](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261115_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg) |
 | 2026-11-14 | 唯有向上发展 | 中国香港维多利亚港 (© Juan Romero/Cavan Images) | ![唯有向上发展](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261114_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg) |
