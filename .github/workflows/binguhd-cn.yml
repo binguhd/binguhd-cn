@@ -1,9 +1,9 @@
-# bing-UHD-cn-0.1.2.yml
+# binguhd-cn-0.2.0.yml
 # github.com/shenjuexiao
-# 20261024
+# 20261117
 
-# .github/workflows/bing-UHD-cn.yml
-name: bing-UHD-cn
+# .github/workflows/binguhd-cn.yml
+name: binguhd-cn
 on:
   schedule:
     # 每天 00:05 UTC 运行（北京时间 08:05）
@@ -33,10 +33,10 @@ jobs:
           pip install requests
 
       - name: Run script
-        run: python bing-UHD-cn.py
+        run: python binguhd-cn.py
 
       - name: Generate README
-        run: python bing-UHD-cn-README.py
+        run: python binguhd-cn-README.py
 
       - name: Commit and push changes
         run: |
