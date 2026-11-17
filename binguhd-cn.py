@@ -1,8 +1,8 @@
-# bing-UHD-cn-0.1.2.py
+# binguhd-cn-0.2.0.py
 # github.com/shenjuexiao
-# 20261024
+# 20261117
 
-# bing-UHD-cn.py
+# binguhd-cn.py
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
@@ -185,7 +185,7 @@ def write_yearly_md(year: str, yearly_images: list) -> None:
 
     try:
         with open(md_file, "w", encoding="utf-8") as f:
-            f.write(f"# Bing 每日壁纸 - UHD 中文 - {year}\n\n")
+            f.write(f"# Bing 每日壁纸 - UHD - 中文 - {year}\n\n")
             f.write(
                 f"> 最后更新：{datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC\n\n"
             )
