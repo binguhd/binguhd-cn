@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD - 中文 - 2026
 
-> 最后更新：2026-11-18 07:04:27 UTC
+> 最后更新：2026-11-19 07:05:26 UTC
 
 | 日期 | 标题 | 版权 | 缩略图 | 高清图 |
 | :---: | :---: | :---: | :---: | :---: |
+| 2026-11-19 | 思想在此成形 | 雕塑《知识之躯》，由豪梅·普兰萨创作，位于德国法兰克福的法兰克福歌德大学 (© Todamo/Shutterstock) | ![思想在此成形](https://cdn.jsdelivr.net/gh/binguhd/binguhd-cn@main/bing-320-cn-2026/20261119_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_UHD.jpg) |
 | 2026-11-18 | 从黄昏狩猎到黎明 | 一对仓鸮 (© Zahoor Salmi/Getty Images) | ![从黄昏狩猎到黎明](https://cdn.jsdelivr.net/gh/binguhd/binguhd-cn@main/bing-320-cn-2026/20261118_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_UHD.jpg) |
 | 2026-11-17 | 走进广阔的大自然 | 雪松林步道，冰川国家公园，蒙大拿州，美国 (© DBushue Photography/Getty Images) | ![走进广阔的大自然](https://cdn.jsdelivr.net/gh/binguhd/binguhd-cn@main/bing-320-cn-2026/20261117_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg) |
 | 2026-11-16 | 历经岁月，屹立不倒 | 美国新墨西哥州吉拉悬崖民居国家纪念地 (© Chiara Salvadori/Getty Images) | ![历经岁月，屹立不倒](https://cdn.jsdelivr.net/gh/binguhd/binguhd-cn@main/bing-320-cn-2026/20261116_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg) |
