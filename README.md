@@ -12,38 +12,38 @@
 
 ### 🐎 [2026](https://cn.binguhd.com/bing-UHD-cn-2026.html)
 
-| 2026-05-14 | 2026-05-27 | 2026-08-02 | 2026-09-01 |
+| 2026-03-14 | 2026-05-24 | 2026-07-22 | 2026-09-17 |
 | :---: | :---: | :---: | :---: |
-| [一场穿越时空的旅程](https://www.bing.com/th?id=OHR.Pitigliano_ZH-CN1509921892_UHD.jpg) | [它们“獭”独一无二](https://www.bing.com/th?id=OHR.OtterDay_ZH-CN7735013625_UHD.jpg) | [色彩鲜艳的船只，历久弥新的传统](https://www.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_UHD.jpg) | [脚下的世界](https://www.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_UHD.jpg) |
-| [![一场穿越时空的旅程](https://www.bing.com/th?id=OHR.Pitigliano_ZH-CN1509921892_320x240.jpg)](https://www.bing.com/th?id=OHR.Pitigliano_ZH-CN1509921892_UHD.jpg) | [![它们“獭”独一无二](https://www.bing.com/th?id=OHR.OtterDay_ZH-CN7735013625_320x240.jpg)](https://www.bing.com/th?id=OHR.OtterDay_ZH-CN7735013625_UHD.jpg) | [![色彩鲜艳的船只，历久弥新的传统](https://www.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_320x240.jpg)](https://www.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_UHD.jpg) | [![脚下的世界](https://www.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_320x240.jpg)](https://www.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_UHD.jpg) |
+| [圆周率的古老启示](https://www.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_UHD.jpg) | [守护欧洲的自然净土](https://www.bing.com/th?id=OHR.DolomitesPark_ZH-CN7134423478_UHD.jpg) | [细微之举，影响深远](https://www.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_UHD.jpg) | [为丰收举杯](https://www.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_UHD.jpg) |
+| [![圆周率的古老启示](https://www.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_320x240.jpg)](https://www.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_UHD.jpg) | [![守护欧洲的自然净土](https://www.bing.com/th?id=OHR.DolomitesPark_ZH-CN7134423478_320x240.jpg)](https://www.bing.com/th?id=OHR.DolomitesPark_ZH-CN7134423478_UHD.jpg) | [![细微之举，影响深远](https://www.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_320x240.jpg)](https://www.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_UHD.jpg) | [![为丰收举杯](https://www.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_320x240.jpg)](https://www.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_UHD.jpg) |
 
 ### 🐍 [2025](https://cn.binguhd.com/bing-UHD-cn-2025.html)
 
-| 2025-03-05 | 2025-04-30 | 2025-05-20 | 2025-06-09 |
+| 2025-02-27 | 2025-10-29 | 2025-11-07 | 2025-12-07 |
 | :---: | :---: | :---: | :---: |
-| [丛林探险](https://www.bing.com/th?id=OHR.SuratThani_ZH-CN4797096558_UHD.jpg) | [瀑布声在各国间回响](https://www.bing.com/th?id=OHR.FozdoIguacu2025_ZH-CN3781165595_UHD.jpg) | [小翅膀，大作用](https://www.bing.com/th?id=OHR.HoneyBeeLavender_ZH-CN4513594236_UHD.jpg) | [探索君临城](https://www.bing.com/th?id=OHR.DubrovnikTwilight_ZH-CN2981648854_UHD.jpg) |
-| [![丛林探险](https://www.bing.com/th?id=OHR.SuratThani_ZH-CN4797096558_320x240.jpg)](https://www.bing.com/th?id=OHR.SuratThani_ZH-CN4797096558_UHD.jpg) | [![瀑布声在各国间回响](https://www.bing.com/th?id=OHR.FozdoIguacu2025_ZH-CN3781165595_320x240.jpg)](https://www.bing.com/th?id=OHR.FozdoIguacu2025_ZH-CN3781165595_UHD.jpg) | [![小翅膀，大作用](https://www.bing.com/th?id=OHR.HoneyBeeLavender_ZH-CN4513594236_320x240.jpg)](https://www.bing.com/th?id=OHR.HoneyBeeLavender_ZH-CN4513594236_UHD.jpg) | [![探索君临城](https://www.bing.com/th?id=OHR.DubrovnikTwilight_ZH-CN2981648854_320x240.jpg)](https://www.bing.com/th?id=OHR.DubrovnikTwilight_ZH-CN2981648854_UHD.jpg) |
+| [极地关怀](https://www.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg) | [时光扎根](https://www.bing.com/th?id=OHR.FanalForest_ZH-CN2203572101_UHD.jpg) | [魅力十足的巨型动物](https://www.bing.com/th?id=OHR.WillowBear_ZH-CN3501489210_UHD.jpg) | [雪落下的声音](https://www.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_UHD.jpg) |
+| [![极地关怀](https://www.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_320x240.jpg)](https://www.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg) | [![时光扎根](https://www.bing.com/th?id=OHR.FanalForest_ZH-CN2203572101_320x240.jpg)](https://www.bing.com/th?id=OHR.FanalForest_ZH-CN2203572101_UHD.jpg) | [![魅力十足的巨型动物](https://www.bing.com/th?id=OHR.WillowBear_ZH-CN3501489210_320x240.jpg)](https://www.bing.com/th?id=OHR.WillowBear_ZH-CN3501489210_UHD.jpg) | [![雪落下的声音](https://www.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_320x240.jpg)](https://www.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_UHD.jpg) |
 
 ### 🐉 [2024](https://cn.binguhd.com/bing-UHD-cn-2024.html)
 
-| 2024-07-04 | 2024-08-17 | 2024-10-22 | 2024-12-08 |
+| 2024-03-10 | 2024-05-22 | 2024-07-27 | 2024-08-11 |
 | :---: | :---: | :---: | :---: |
-| [风景如画的白色小镇](https://www.bing.com/th?id=OHR.ZaharaDeLaSierra_ZH-CN6500182265_UHD.jpg) | [照亮前行之路](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_ZH-CN9704515669_UHD.jpg) | [可怕的外墙](https://www.bing.com/th?id=OHR.MonsterDoor_ZH-CN6613337019_UHD.jpg) | [巴黎圣母院再度回归](https://www.bing.com/th?id=OHR.ReopeningNotreDame_ZH-CN6512133762_UHD.jpg) |
-| [![风景如画的白色小镇](https://www.bing.com/th?id=OHR.ZaharaDeLaSierra_ZH-CN6500182265_320x240.jpg)](https://www.bing.com/th?id=OHR.ZaharaDeLaSierra_ZH-CN6500182265_UHD.jpg) | [![照亮前行之路](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_ZH-CN9704515669_320x240.jpg)](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_ZH-CN9704515669_UHD.jpg) | [![可怕的外墙](https://www.bing.com/th?id=OHR.MonsterDoor_ZH-CN6613337019_320x240.jpg)](https://www.bing.com/th?id=OHR.MonsterDoor_ZH-CN6613337019_UHD.jpg) | [![巴黎圣母院再度回归](https://www.bing.com/th?id=OHR.ReopeningNotreDame_ZH-CN6512133762_320x240.jpg)](https://www.bing.com/th?id=OHR.ReopeningNotreDame_ZH-CN6512133762_UHD.jpg) |
+| [是时候调整时间了](https://www.bing.com/th?id=OHR.BeaumontClock_ZH-CN5288086713_UHD.jpg) | [深入了解生物多样性](https://www.bing.com/th?id=OHR.SnowGumTasmania_ZH-CN6975160884_UHD.jpg) | [完美的葡萄酒](https://www.bing.com/th?id=OHR.RhinelandVineyards_ZH-CN3332101688_UHD.jpg) | [人迹罕至的路](https://www.bing.com/th?id=OHR.TofinoVancouver_ZH-CN6920493172_UHD.jpg) |
+| [![是时候调整时间了](https://www.bing.com/th?id=OHR.BeaumontClock_ZH-CN5288086713_320x240.jpg)](https://www.bing.com/th?id=OHR.BeaumontClock_ZH-CN5288086713_UHD.jpg) | [![深入了解生物多样性](https://www.bing.com/th?id=OHR.SnowGumTasmania_ZH-CN6975160884_320x240.jpg)](https://www.bing.com/th?id=OHR.SnowGumTasmania_ZH-CN6975160884_UHD.jpg) | [![完美的葡萄酒](https://www.bing.com/th?id=OHR.RhinelandVineyards_ZH-CN3332101688_320x240.jpg)](https://www.bing.com/th?id=OHR.RhinelandVineyards_ZH-CN3332101688_UHD.jpg) | [![人迹罕至的路](https://www.bing.com/th?id=OHR.TofinoVancouver_ZH-CN6920493172_320x240.jpg)](https://www.bing.com/th?id=OHR.TofinoVancouver_ZH-CN6920493172_UHD.jpg) |
 
 ### 🐇 [2023](https://cn.binguhd.com/bing-UHD-cn-2023.html)
 
-| 2023-04-24 | 2023-07-23 | 2023-10-10 | 2024-01-01 |
+| 2023-06-04 | 2023-10-23 | 2023-10-31 | 2023-12-06 |
 | :---: | :---: | :---: | :---: |
-| [隐藏在树林中](https://www.bing.com/th?id=OHR.FranconianWineCellar_ZH-CN8234719750_UHD.jpg) | [你好，你在找“茶”吗?](https://www.bing.com/th?id=OHR.TeaEstate_ZH-CN9645412630_UHD.jpg) | [高高的落基山脉](https://www.bing.com/th?id=OHR.SoprisSunrise_ZH-CN5935701155_UHD.jpg) | [新年伊始](https://www.bing.com/th?id=OHR.SleepingFox_ZH-CN2622967726_UHD.jpg) |
-| [![隐藏在树林中](https://www.bing.com/th?id=OHR.FranconianWineCellar_ZH-CN8234719750_320x240.jpg)](https://www.bing.com/th?id=OHR.FranconianWineCellar_ZH-CN8234719750_UHD.jpg) | [![你好，你在找“茶”吗?](https://www.bing.com/th?id=OHR.TeaEstate_ZH-CN9645412630_320x240.jpg)](https://www.bing.com/th?id=OHR.TeaEstate_ZH-CN9645412630_UHD.jpg) | [![高高的落基山脉](https://www.bing.com/th?id=OHR.SoprisSunrise_ZH-CN5935701155_320x240.jpg)](https://www.bing.com/th?id=OHR.SoprisSunrise_ZH-CN5935701155_UHD.jpg) | [![新年伊始](https://www.bing.com/th?id=OHR.SleepingFox_ZH-CN2622967726_320x240.jpg)](https://www.bing.com/th?id=OHR.SleepingFox_ZH-CN2622967726_UHD.jpg) |
+| [热带天堂的黑沙滩](https://www.bing.com/th?id=OHR.MauiBeach_ZH-CN1435658101_UHD.jpg) | [“迷”人之境](https://www.bing.com/th?id=OHR.PoconosMaze_ZH-CN4696904367_UHD.jpg) | [恶灵们只想玩个开心。](https://www.bing.com/th?id=OHR.HalloweenCuteAI_ZH-CN1079713117_UHD.jpg) | [穿过群山的蜿蜒小路](https://www.bing.com/th?id=OHR.DardagnaWaterfalls_ZH-CN5613123621_UHD.jpg) |
+| [![热带天堂的黑沙滩](https://www.bing.com/th?id=OHR.MauiBeach_ZH-CN1435658101_320x240.jpg)](https://www.bing.com/th?id=OHR.MauiBeach_ZH-CN1435658101_UHD.jpg) | [![“迷”人之境](https://www.bing.com/th?id=OHR.PoconosMaze_ZH-CN4696904367_320x240.jpg)](https://www.bing.com/th?id=OHR.PoconosMaze_ZH-CN4696904367_UHD.jpg) | [![恶灵们只想玩个开心。](https://www.bing.com/th?id=OHR.HalloweenCuteAI_ZH-CN1079713117_320x240.jpg)](https://www.bing.com/th?id=OHR.HalloweenCuteAI_ZH-CN1079713117_UHD.jpg) | [![穿过群山的蜿蜒小路](https://www.bing.com/th?id=OHR.DardagnaWaterfalls_ZH-CN5613123621_320x240.jpg)](https://www.bing.com/th?id=OHR.DardagnaWaterfalls_ZH-CN5613123621_UHD.jpg) |
 
 ### 🐅 [2022](https://cn.binguhd.com/bing-UHD-cn-2022.html)
 
-| 2022-07-07 | 2022-09-25 | 2022-11-08 | 2022-12-31 |
+| 2022-06-28 | 2022-08-01 | 2022-09-11 | 2022-10-06 |
 | :---: | :---: | :---: | :---: |
-| [黑夜海岸边的一盏灯](https://www.bing.com/th?id=OHR.HecetaHead_ZH-CN2813876594_UHD.jpg) | [匆匆而逝的河流](https://www.bing.com/th?id=OHR.AmazonMangroves_ZH-CN2154443859_UHD.jpg) | [祝福和祈愿的日子](https://www.bing.com/th?id=OHR.YiPeng_ZH-CN0652265903_UHD.jpg) | [和谁一起跨年？](https://www.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_UHD.jpg) |
-| [![黑夜海岸边的一盏灯](https://www.bing.com/th?id=OHR.HecetaHead_ZH-CN2813876594_320x240.jpg)](https://www.bing.com/th?id=OHR.HecetaHead_ZH-CN2813876594_UHD.jpg) | [![匆匆而逝的河流](https://www.bing.com/th?id=OHR.AmazonMangroves_ZH-CN2154443859_320x240.jpg)](https://www.bing.com/th?id=OHR.AmazonMangroves_ZH-CN2154443859_UHD.jpg) | [![祝福和祈愿的日子](https://www.bing.com/th?id=OHR.YiPeng_ZH-CN0652265903_320x240.jpg)](https://www.bing.com/th?id=OHR.YiPeng_ZH-CN0652265903_UHD.jpg) | [![和谁一起跨年？](https://www.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_320x240.jpg)](https://www.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_UHD.jpg) |
+| [沙海中的绿洲](https://www.bing.com/th?id=OHR.TafilaletOasis_ZH-CN9143950935_UHD.jpg) | [世界上最活跃的火山](https://www.bing.com/th?id=OHR.LavaTube_ZH-CN5458469336_UHD.jpg) | [椰林国](https://www.bing.com/th?id=OHR.KeralaIndia_ZH-CN0125201857_UHD.jpg) | [隐入大海的龙尾](https://www.bing.com/th?id=OHR.BayofBiscay_ZH-CN6002214693_UHD.jpg) |
+| [![沙海中的绿洲](https://www.bing.com/th?id=OHR.TafilaletOasis_ZH-CN9143950935_320x240.jpg)](https://www.bing.com/th?id=OHR.TafilaletOasis_ZH-CN9143950935_UHD.jpg) | [![世界上最活跃的火山](https://www.bing.com/th?id=OHR.LavaTube_ZH-CN5458469336_320x240.jpg)](https://www.bing.com/th?id=OHR.LavaTube_ZH-CN5458469336_UHD.jpg) | [![椰林国](https://www.bing.com/th?id=OHR.KeralaIndia_ZH-CN0125201857_320x240.jpg)](https://www.bing.com/th?id=OHR.KeralaIndia_ZH-CN0125201857_UHD.jpg) | [![隐入大海的龙尾](https://www.bing.com/th?id=OHR.BayofBiscay_ZH-CN6002214693_320x240.jpg)](https://www.bing.com/th?id=OHR.BayofBiscay_ZH-CN6002214693_UHD.jpg) |
 
 ## 🗂️ 目录
 
