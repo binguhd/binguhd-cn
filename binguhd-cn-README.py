@@ -183,7 +183,7 @@ def build_readme() -> str:
     parts.append("## 🚀 项目")
     parts.append("")
     parts.append(
-        "🔗 [bingmen/bingud-cn](https://github.com/binguhd/binguhd-cn)"
+        "🔗 [binguhd/binguhd-cn](https://github.com/binguhd/binguhd-cn)"
     )
     parts.append("")
     parts.append("## 😀 简介")
