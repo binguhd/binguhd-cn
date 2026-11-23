@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD - 中文 - 2026
 
-> 最后更新：2026-11-22 06:25:32 UTC
+> 最后更新：2026-11-23 07:16:08 UTC
 
 | 日期 | 标题 | 版权 | 缩略图 | 高清图 |
 | :---: | :---: | :---: | :---: | :---: |
+| 2026-11-23 | 自然中的几何之美 | 蕨类植物的卷曲嫩叶 (© Reza Saputra/Getty Images) | ![自然中的几何之美](https://cdn.jsdelivr.net/gh/binguhd/binguhd-cn@main/bing-320-cn-2026/20261123_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg) |
 | 2026-11-22 | 海浪间的庇护所 | 西班牙坎塔布里亚自治区的圣胡斯塔隐修院与小教堂 (© Tramont_ana/Getty Images) | ![海浪间的庇护所](https://cdn.jsdelivr.net/gh/binguhd/binguhd-cn@main/bing-320-cn-2026/20261122_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_UHD.jpg) |
 | 2026-11-21 | 陶瓦屋顶下的梦 | 法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯 (© Siripong Kaewla-iad/Getty Images) | ![陶瓦屋顶下的梦](https://cdn.jsdelivr.net/gh/binguhd/binguhd-cn@main/bing-320-cn-2026/20261121_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_UHD.jpg) |
 | 2026-11-20 | 在峡湾中大快朵颐 | 正在潜水的座头鲸，挪威北部特罗姆斯的克瓦尔岛 (© Espen Bergersen/Minden Pictures) | ![在峡湾中大快朵颐](https://cdn.jsdelivr.net/gh/binguhd/binguhd-cn@main/bing-320-cn-2026/20261120_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_UHD.jpg) |
