@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD - 中文 - 2026
 
-> 最后更新：2026-11-25 08:11:29 UTC
+> 最后更新：2026-11-26 07:59:16 UTC
 
 | 日期 | 标题 | 版权 | 缩略图 | 高清图 |
 | :---: | :---: | :---: | :---: | :---: |
+| 2026-11-26 | 彩虹落下的地方 | 怀卢库河上的彩虹瀑布，希洛市，夏威夷州，美国 (© Peter Unger/Getty Images) | ![彩虹落下的地方](https://cdn.jsdelivr.net/gh/binguhd/binguhd-cn@main/bing-320-cn-2026/20261126_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.RFHilo_ZH-CN5962114314_UHD.jpg) |
 | 2026-11-25 | 美国西南部的一场雪 | 日落观景点，布莱斯峡谷国家公园，犹他州 (© Colin D. Young/Alamy) | ![美国西南部的一场雪](https://cdn.jsdelivr.net/gh/binguhd/binguhd-cn@main/bing-320-cn-2026/20261125_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg) |
 | 2026-11-24 | 秋日的保护色 | 红松鼠，凯恩戈姆斯国家公园，苏格兰高地 (© Scotland: The Big Picture/Minden Pictures) | ![秋日的保护色](https://cdn.jsdelivr.net/gh/binguhd/binguhd-cn@main/bing-320-cn-2026/20261124_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg) |
 | 2026-11-23 | 自然中的几何之美 | 蕨类植物的卷曲嫩叶 (© Reza Saputra/Getty Images) | ![自然中的几何之美](https://cdn.jsdelivr.net/gh/binguhd/binguhd-cn@main/bing-320-cn-2026/20261123_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg) |
