@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD - 中文 - 2026
 
-> 最后更新：2026-11-27 08:00:40 UTC
+> 最后更新：2026-11-28 07:30:41 UTC
 
 | 日期 | 标题 | 版权 | 缩略图 | 高清图 |
 | :---: | :---: | :---: | :---: | :---: |
+| 2026-11-28 | 跨越时光的桥梁 | 捷克布拉格老城区与伏尔塔瓦河 (© Lara_Uhryn/Getty Images) | ![跨越时光的桥梁](https://cdn.jsdelivr.net/gh/binguhd/binguhd-cn@main/bing-320-cn-2026/20261128_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg) |
 | 2026-11-27 | 灰金交织的峡谷 | 夕阳下的孤峰，鲍威尔湖脸峡谷，犹他州，美国 (© Jeff Foott/Minden) | ![灰金交织的峡谷](https://cdn.jsdelivr.net/gh/binguhd/binguhd-cn@main/bing-320-cn-2026/20261127_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_UHD.jpg) |
 | 2026-11-26 | 彩虹落下的地方 | 怀卢库河上的彩虹瀑布，希洛市，夏威夷州，美国 (© Peter Unger/Getty Images) | ![彩虹落下的地方](https://cdn.jsdelivr.net/gh/binguhd/binguhd-cn@main/bing-320-cn-2026/20261126_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.RFHilo_ZH-CN5962114314_UHD.jpg) |
 | 2026-11-25 | 美国西南部的一场雪 | 日落观景点，布莱斯峡谷国家公园，犹他州 (© Colin D. Young/Alamy) | ![美国西南部的一场雪](https://cdn.jsdelivr.net/gh/binguhd/binguhd-cn@main/bing-320-cn-2026/20261125_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg) |
